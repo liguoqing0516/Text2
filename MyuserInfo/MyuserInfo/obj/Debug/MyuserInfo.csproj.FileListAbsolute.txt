@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\MyuserInfo\MyuserInfo\bin\Debug\MyuserInfo.exe.config
+c:\users\administrator\source\repos\MyuserInfo\MyuserInfo\bin\Debug\MyuserInfo.exe
+c:\users\administrator\source\repos\MyuserInfo\MyuserInfo\bin\Debug\MyuserInfo.pdb
+c:\users\administrator\source\repos\MyuserInfo\MyuserInfo\obj\Debug\MyuserInfo.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\MyuserInfo\MyuserInfo\obj\Debug\MyuserInfo.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\MyuserInfo\MyuserInfo\obj\Debug\MyuserInfo.exe
+c:\users\administrator\source\repos\MyuserInfo\MyuserInfo\obj\Debug\MyuserInfo.pdb
