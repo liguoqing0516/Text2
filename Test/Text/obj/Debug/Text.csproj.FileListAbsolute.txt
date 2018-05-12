@@ -3,4 +3,3 @@ C:\Users\Administrator\source\repos\Test\Text\obj\Debug\Text.csproj.CoreCompileI
 C:\Users\Administrator\source\repos\Test\Text\obj\Debug\Text.pdb
 C:\Users\Administrator\source\repos\Test\Text\bin\Debug\Text.exe
 C:\Users\Administrator\source\repos\Test\Text\obj\Debug\Text.exe
-C:\Users\Administrator\source\repos\Test\Text\obj\Debug\Text.csprojResolveAssemblyReference.cache

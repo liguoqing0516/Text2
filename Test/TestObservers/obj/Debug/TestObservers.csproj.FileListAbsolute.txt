@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Test\TestObservers\bin\Debug\TestObservers.exe.config
+C:\Users\Administrator\source\repos\Test\TestObservers\bin\Debug\TestObservers.exe
+C:\Users\Administrator\source\repos\Test\TestObservers\bin\Debug\TestObservers.pdb
+C:\Users\Administrator\source\repos\Test\TestObservers\obj\Debug\TestObservers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\Test\TestObservers\obj\Debug\TestObservers.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Test\TestObservers\obj\Debug\TestObservers.exe
+C:\Users\Administrator\source\repos\Test\TestObservers\obj\Debug\TestObservers.pdb
